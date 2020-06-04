@@ -1,3 +1,4 @@
+/* eslint-disable unicorn/no-reduce */
 const format = jest.fn();
 function getName(firstName, ...otherNames) {
   const restOfNames = otherNames.reduce(
