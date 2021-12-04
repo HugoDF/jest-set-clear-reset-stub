@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "jest": "^27.3.1"
+    "jest": "^27.4.3"
   },
   "name": "jest-set-clear-reset-stub",
   "description": "Set, reset and clear mocks, stubs and spies in Jest",
